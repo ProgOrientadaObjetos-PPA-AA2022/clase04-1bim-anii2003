@@ -12,6 +12,8 @@ public class FacturaTelefonica {
     private double valorMinuto;
     private double valorFactura;    
     
+    // Constructor:
+    
     public FacturaTelefonica(){
         numeroTelefono = "123456789";
         minutosMes = 100;
